@@ -5,7 +5,7 @@ Este projeto faz parte do meu portfólio como Analista de Dados em formação. A
 
 > 🔍 Ferramentas utilizadas: **Excel**, **SQL**, **Tableau**  
 > 📊 Público-alvo: Recrutadores e empresas de tecnologia, e-commerce e mobilidade urbana  
-> 📅 Período da análise: Janeiro a Abril de 2022  
+> 📅 Período da análise: Janeiro a Abril de 2023  
 > 📌 Projeto do Certificado Profissional de Análise de Dados do Google
 
 ---
