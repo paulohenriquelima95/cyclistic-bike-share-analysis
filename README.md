@@ -28,8 +28,13 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 | GitHub       | Compartilhamento do projeto e documentação                                 |
 
 ---
-## 📂 Dados Limpos
-🔗 **[Download dos dados limpos (CSV)](https://drive.google.com/file/d/1IPXHfOj53xwUlD38H1gkHmPYneiXuC9z/view?usp=drive_link)**
+## 📂 Dados Brutos - 12 arquivos.zip
+🔗 [Download dos dados brutos (Google Drive)](https://drive.google.com/drive/folders/1LczirAm5-OuUbq9TEhzjK6kKW-bz5iXS?usp=drive_link)
+
+
+
+## 📂 Dados Limpos - 1 arquivo.zip
+🔗 **[Download dos dados limpos (Google Drive)](https://drive.google.com/file/d/1IPXHfOj53xwUlD38H1gkHmPYneiXuC9z/view?usp=drive_link)**
 
 
 ## 📈 Painel Interativo
