@@ -31,7 +31,7 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 
 ## 📈 Painel Interativo
 
-🔗 **[Clique aqui para acessar o dashboard no Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[Clique aqui para acessar o dashboard no Tableau Public](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ---
 
