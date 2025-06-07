@@ -1,3 +1,4 @@
+
 # 🚴‍♂️ Análise de Uso de Bicicletas Compartilhadas – Cyclistic Bike Share
 
 Este projeto faz parte do meu portfólio como Analista de Dados em formação. Analisei dados de uma empresa fictícia de compartilhamento de bicicletas chamada **Cyclistic**, com o objetivo de entender o comportamento dos usuários membros e casuais, a fim de propor estratégias para conversão de usuários casuais em assinantes.
@@ -30,14 +31,7 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 
 ## 📈 Painel Interativo
 
-🔗 **[Clique aqui para acessar o dashboard no Tableau Public](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-> O painel interativo apresenta:
-> - 📊 Comparação entre usuários casuais e membros
-> - 🕒 Viagens por hora do dia
-> - 📅 Viagens por mês e por dia da semana
-> - ⏱️ Duração média das viagens
-> - 🚲 Estações mais populares (se incluídas)
+🔗 **[Clique aqui para acessar o dashboard no Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ---
 
@@ -46,10 +40,19 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 - Usuários **membros** realizam quase o **dobro de viagens** em relação aos casuais.
 - **Casuals** preferem passeios durante o **fim de semana**, enquanto **membros** usam mais nos dias úteis.
 - O pico de uso dos **membros** ocorre às **17h** (volta do trabalho), e o dos **casuais** às **15h** (lazer).
-- A **duração média das viagens dos casuais** é maior (por volta de 678 minutos) que a dos membros.
+- A **duração média das viagens dos casuais** é maior do que a dos membros.
 - Estações próximas a **pontos turísticos** são mais usadas por casuais; membros preferem estações comerciais/residenciais.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
+```
+📂 dados/
+   └── Dados Cyclist.csv
+📂 sql/
+   └── create_table.sql
+📂 certificado/
+   └── certificado_google_analise_dados.pdf
+📊 README.md
+```
