@@ -28,7 +28,7 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 | GitHub       | Compartilhamento do projeto e documentação                                 |
 
 ---
-## 📂 Dados limpos utilizados para análise
+## 📂 Dados Limpos
 🔗 **[Download dos dados limpos (CSV)](https://drive.google.com/file/d/1IPXHfOj53xwUlD38H1gkHmPYneiXuC9z/view?usp=drive_link)**
 
 
@@ -51,8 +51,6 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 ## 📁 Estrutura do Repositório
 
 ```
-📂 dados/
-   └── Dados Cyclist.csv
 📂 sql/
    └── create_table.sql
 📂 certificado/
