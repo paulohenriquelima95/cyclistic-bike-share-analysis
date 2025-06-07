@@ -29,11 +29,12 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 
 ---
 ## 📂 Dados limpos utilizados para análise
-**[Download dos dados limpos (CSV)](https://drive.google.com/file/d/1IPXHfOj53xwUlD38H1gkHmPYneiXuC9z/view?usp=drive_link)**
+🔗 **[Download dos dados limpos (CSV)](https://drive.google.com/file/d/1IPXHfOj53xwUlD38H1gkHmPYneiXuC9z/view?usp=drive_link)**
+
 
 ## 📈 Painel Interativo
 
-🔗 **[Clique aqui para acessar o dashboard no Tableau Public](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[Clique aqui para acessar o dashboard no Tableau Public](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
