@@ -61,22 +61,29 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 
 ```
 cyclistic-bike-share-analysis/
+├── 🎓 certificado/              # Certificado do curso Google
+│    └── certificado_google_data_analytics.pdf
+│
 ├── 📊 dashboard/                  # Imagens ou arquivos exportados do Tableau
-│   └── dashboard_cyclistic.png
+│   └── tableau_dashboard_overview.png
 │
 ├── 🗃️ data/                       # Dados utilizados no projeto
-│   └── dados_limpos_cyclistic.csv
+│   └── cyclistic_clean_data_2023.zip
+│
+├── 🗃️ representation/                       # Apresentações do projeto
+│   ├── Cyclistic_Project_Presentation.pdf
+│   ├── Resumo_Insights_Soluções.png
+│   └── Slide_Resumo_Insights.pptx
 │
 ├── 🧠 scripts_sql/               # Scripts SQL utilizados
-│   ├── create_table.sql
-│   ├── insert_data.sql
-│   ├── clean_transform.sql
-│   └── analysis_queries.sql
+│   ├── 01_create_table.sql
+│   ├── 02_insert_data.sql
+│   ├── 03_clean_transform.sql
+│   └── 04_analysis_queries.sql
 │
 ├── 📄 LICENSE                    # Licença de uso (MIT)
 ├── 📘 README.md                 # Documentação do projeto
-└── 🎓 certificado/              # (Opcional) Certificado do curso Google
-    └── certificado_google.pdf
+
 ```
 
 ## 💼 Para Recrutadores
