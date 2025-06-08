@@ -80,7 +80,7 @@ cyclistic-bike-share-analysis/
 Se você é recrutador e deseja verificar minhas habilidades em projetos reais de análise de dados, recomendo:
 
 - Verificar os **scripts SQL** na pasta `/scripts_sql`
-- Navegar pelo **dashboard interativo** no Tableau Public [clicando aqui](https://public.tableau.com/...)
+- Navegar pelo **dashboard interativo** no Tableau Public [clicando aqui](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Conferir os **insights e storytelling** no slide da apresentação
 - Visualizar o código limpo, comentários e boa organização no repositório
 
