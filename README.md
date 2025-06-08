@@ -70,7 +70,7 @@ cyclistic-bike-share-analysis/
 ├── 🗃️ data/                       # Dados utilizados no projeto
 │   └── cyclistic_clean_data_2023.zip
 │
-├── 🗃️ representation/                       # Apresentações do projeto
+├── 🖼️ representation/                       # Apresentações do projeto
 │   ├── Cyclistic_Project_Presentation.pdf
 │   ├── Resumo_Insights_Soluções.png
 │   └── Slide_Resumo_Insights.pptx
