@@ -56,9 +56,32 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 ## 📁 Estrutura do Repositório
 
 ```
-📂 sql/
-   └── create_table.sql
-📂 certificado/
-   └── certificado_google_analise_dados.pdf
-📊 README.md
+cyclistic-bike-share-analysis/
+├── 📊 dashboard/                  # Imagens ou arquivos exportados do Tableau
+│   └── dashboard_cyclistic.png
+│
+├── 🗃️ data/                       # Dados utilizados no projeto
+│   └── dados_limpos_cyclistic.csv
+│
+├── 🧠 scripts_sql/               # Scripts SQL utilizados
+│   ├── create_table.sql
+│   ├── insert_data.sql
+│   ├── clean_transform.sql
+│   └── analysis_queries.sql
+│
+├── 📄 LICENSE                    # Licença de uso (MIT)
+├── 📘 README.md                 # Documentação do projeto
+└── 🎓 certificado/              # (Opcional) Certificado do curso Google
+    └── certificado_google.pdf
 ```
+
+## 💼 Para Recrutadores
+
+Se você é recrutador e deseja verificar minhas habilidades em projetos reais de análise de dados, recomendo:
+
+- Verificar os **scripts SQL** na pasta `/scripts_sql`
+- Navegar pelo **dashboard interativo** no Tableau Public [clicando aqui](https://public.tableau.com/...)
+- Conferir os **insights e storytelling** no slide da apresentação
+- Visualizar o código limpo, comentários e boa organização no repositório
+
+Estou à disposição para entrevistas e desafios técnicos. 💬
