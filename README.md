@@ -41,6 +41,10 @@ Analisar o comportamento dos usuários para responder à seguinte pergunta de ne
 
 🔗 **[Clique aqui para acessar o dashboard no Tableau Public](https://public.tableau.com/views/DadosBikeCyclist/AnlisedeUsodeBicicletas-CyclisticBikeShare?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+- 🔗 [Apresentação do projeto](presentation/Cyclistic_Project_Presentation.pptx)
+- 🔗 [Dashboard Tableau (imagem)](dashboard/tableau_dashboard_overview.png)
+- 🔗 [Certificado Google](certificado/certificado_google_data_analytics.pdf)
+
 ---
 
 ## 📊 Principais Insights
