@@ -72,8 +72,8 @@ cyclistic-bike-share-analysis/
 │
 ├── 🖼️ representation/                       # Apresentações do projeto
 │   ├── Cyclistic_Project_Presentation.pdf
-│   ├── Resumo_Insights_Soluções.png
-│   └── Slide_Resumo_Insights.pptx
+│   ├── Cyclistic_Project_Presentation.pptx
+│   └── Resumo_Insights_Soluções.png
 │
 ├── 🧠 scripts_sql/               # Scripts SQL utilizados
 │   ├── 01_create_table.sql
